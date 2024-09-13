@@ -1,9 +1,7 @@
-- ## $\textcolor{Yellow}{\Huge \textbf{👋 Hi, I'm Sheetal Bajarangbali Vishwakarma}}$ 
-- 🔭 I’m currently working as a Backend developer
-- 👯 I’m looking to collaborate on open source projects !!
-- 👀 I’m interested in Sports, Stiching, Cooking and Exploring new places
+- ## $\textcolor{Yellow}{\Huge \textbf{👋 Hi, I'm Sheetal Bajarangbali Vishwakarma}}$
 
-<!---
-Sheetal-Vishwakarma/Sheetal-Vishwakarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- # 💫 About Me:
+🔭 I’m currently working as a Backend Developer <br>👯 I’m looking to collaborate on open source projects !! <br>📄 Know about my experiences https://drive.google.com/file/d/1zPMU8bD3z5_jIlhPBGBPbgHC7oi_qGN2/view<br>
+
+<br/>
+<hr/>
