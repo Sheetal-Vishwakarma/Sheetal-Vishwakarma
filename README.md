@@ -16,7 +16,7 @@
 - MySQL
 - SQL
 - Oracle
-# Version Control
+# 🎯Version Control
 - Git
 - Gitlab
 <br/>
