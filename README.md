@@ -8,6 +8,7 @@
 - HTML
 - Javascript
 - JQuery
+- AJAX
 # 🎯Framework
 - Laravel
 - Codeignator
